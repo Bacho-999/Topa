@@ -1,1 +1,0 @@
-set di immagini per l'addestramento dell'ia
