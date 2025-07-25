@@ -1,0 +1,6 @@
+#ignora file jpg
+*.jpg
+
+*.pth
+
+*.pyc

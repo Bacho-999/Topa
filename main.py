@@ -9,7 +9,7 @@ from model import SimpleCNN
 from reshape import resize_dataset
 
 # === STEP 1: RIDIMENSIONA LE IMMAGINI ===
-original_data_dir = "dataset_originale"
+original_data_dir = "./dataset"
 resized_data_dir = "dataset_32x32"
 
 if not os.path.exists(resized_data_dir):
